@@ -1,8 +1,29 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+
+   <a href="[your-linkedin-URL](https://www.linkedin.com/in/senthil-kumar-89b0a125b/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCfoGjO2jxcPgBR1VMVkdYvQ)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/CoderikSenthil)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt
+ 
+
+ 
 - Hi, I’m @coderik-sk-senthil
 - I’m Programming websites,apps,games(currently small 2d) HTML games, growing interest towards making Linux(distros,kernal) and Foss softwares and app devlopment.
-- I’m currently learning C,Python.
-- I’m looking to collaborate on making Linux and Foss software and web devlopment
-- You can contact me through my gmail that is u.senthilkumar1@gmail.com
+- I’m currently learning C and Python.
+- I’m looking to collaborate on making Linux and Foss software and web development
+- You can contact me through my Gmail is u.senthilkumar1@gmail.com
 
 <!--[![coderik-sk-senthil GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=coderik-sk-senthil&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/coderik-sk-senthil)-->
 <!---
