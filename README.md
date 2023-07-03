@@ -24,6 +24,7 @@
 - I’m currently learning C and Python.
 - I’m looking to collaborate on making Linux and Foss software and web development
 - You can contact me through my Gmail is u.senthilkumar1@gmail.com
+- New profile pic coming soon
 
 <!--[![coderik-sk-senthil GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=coderik-sk-senthil&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/coderik-sk-senthil)-->
 <!---
