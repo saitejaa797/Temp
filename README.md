@@ -19,7 +19,7 @@
  
 
  
-- Hi, I’m @coderik-sk-senthil
+- Hi, I’m @coderiksenthil
 - I’m Programming websites,apps,games(currently small 2d) HTML games, growing interest towards making Linux(distros,kernal) and Foss softwares and app devlopment.
 - I’m currently learning C and Python.
 - I’m looking to collaborate on making Linux and Foss software and web development
